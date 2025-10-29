@@ -27,3 +27,7 @@ The dataset covers 1,081 companies with an average response time of 15.09 days.
 93.77% of complaints were handled timely, reflecting strong responsiveness.
 Interestingly, small companies accounted for over 70% of all complaints — suggesting that limited resources or weaker customer support systems may be key drivers.
 The average Reputation Score across companies is 75.07, indicating moderate consumer confidence and potential for improvement.
+
+
+
+interactive dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMzI0ZWM1YzMtODUwNS00ZWJiLWJkNzEtNDlmZTdjYmQ2MTNhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
